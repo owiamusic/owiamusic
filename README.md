@@ -8,6 +8,6 @@
 
 # Github Stats & Programming Languages
 
-[![Prince Abbam GitHub stats](https://github-readme-stats.vercel.app/api?username=owiamusic&show_icons=true&theme=transparent)]
+![Prince Abbam GitHub stats](https://github-readme-stats.vercel.app/api?username=owiamusic&show_icons=true&theme=transparent)
 
-[![Top Programming Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owiamusic&layout=donut-vertical)]
+![Top Programming Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owiamusic&layout=donut-vertical)
