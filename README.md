@@ -7,4 +7,4 @@
 - 📫 How to reach me: Shoot me an email via owiamusic@gmail.com
 - ⚡ Fun fact: ..
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owiamusic)](https://github.com/anuraghazra/github-readme-stats).
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owiamusic&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats).
