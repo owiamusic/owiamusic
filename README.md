@@ -8,6 +8,6 @@
 
 # Github Stats & Programming Languages
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owiamusic&show_icons=true&theme=transparent)](https://github.com/owiamusic/github-readme-stats).
+[![Prince Abbam GitHub stats](https://github-readme-stats.vercel.app/api?username=owiamusic&show_icons=true&theme=transparent)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owiamusic&layout=donut-vertical)](https://github.com/owiamusic/github-readme-stats)
+[![Top Programming Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owiamusic&layout=donut-vertical)]
