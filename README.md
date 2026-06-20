@@ -12,6 +12,6 @@
 ![Top Programming Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owiamusic&layout=donut-vertical)
 
 # Technical Skills
-⚡Web Development: React, Javascript, WordPress, Elementor, HTML, CSS, SEO Optimization, Web Hosting & Deployment
-⚡Web Tools & Utilities: Website Debugging, Maintenance, cPanel, Domain Setup
-⚡Soft Skills: Client Communication, Project Management, Remote Collaboration
+-⚡Web Development: React, Javascript, WordPress, Elementor, HTML, CSS, SEO Optimization, Web Hosting & Deployment
+-⚡Web Tools & Utilities: Website Debugging, Maintenance, cPanel, Domain Setup
+-⚡Soft Skills: Client Communication, Project Management, Remote Collaboration
